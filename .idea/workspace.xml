@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="122d54d5-74cf-4a98-b210-8220d5093941" name="Changes" comment="Initial commit" />
+    <list default="true" id="122d54d5-74cf-4a98-b210-8220d5093941" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/stail.CSS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,21 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bbfcc6fc-381d-48b9-81ee-63c5c23be7c4" />
+        <option name="url" value="https://github.com/Krat97/Lessen_1_HTML.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674242753783</updated>
-      <workItem from="1674242755284" duration="4658000" />
+      <workItem from="1674242755284" duration="6813000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -64,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674250421471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1674250731212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674250731212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
