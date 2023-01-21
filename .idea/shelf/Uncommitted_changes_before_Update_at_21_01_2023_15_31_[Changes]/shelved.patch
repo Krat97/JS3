@@ -1,0 +1,364 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1674258361404)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46_[Changes]/shelved.patch	(date 1674258361404)
+@@ -0,0 +1,148 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"122d54d5-74cf-4a98-b210-8220d5093941\" name=\"Changes\" comment=\"Initial commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/HTML/CSS/Style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/HTML/CSS/st.CSS\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/HTML/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/HTML/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"bbfcc6fc-381d-48b9-81ee-63c5c23be7c4\" />\r\n        <option name=\"url\" value=\"https://github.com/Krat97/Lessen_1_HTML.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KbUOcd07tN0HIDzbl2XgK19MkE\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"122d54d5-74cf-4a98-b210-8220d5093941\" name=\"Changes\" comment=\"\" />\r\n      <created>1674242753783</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674242753783</updated>\r\n      <workItem from=\"1674242755284\" duration=\"9803000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\r\n      <created>1674250421471</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674250421471</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Initial commit\">\r\n      <created>1674250731212</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674250731212</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Initial commit\">\r\n      <created>1674252744479</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674252744479</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Initial commit\">\r\n      <created>1674253244224</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674253244224</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initial commit\" />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 71d6b128774e5b893d924eedfd8f4b5ea7661b23)
+++++ b/.idea/workspace.xml	(date 1674258339141)
++@@ -4,10 +4,8 @@
++     <option name="autoReloadType" value="SELECTIVE" />
++   </component>
++   <component name="ChangeListManager">
++-    <list default="true" id="122d54d5-74cf-4a98-b210-8220d5093941" name="Changes" comment="Initial commit">
++-      <change afterPath="$PROJECT_DIR$/HTML/CSS/Style.css" afterDir="false" />
+++    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;HTML/CSS/Style.css&#10;#&#9;HTML/CSS/st.CSS&#10;#&#9;HTML/CSS/stail.CSS&#10;#&#9;HTML/index.html">
++       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/HTML/CSS/st.CSS" beforeDir="false" />
++       <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
++     </list>
++     <option name="SHOW_DIALOG" value="false" />
++@@ -19,7 +17,6 @@
++     <option name="RECENT_TEMPLATES">
++       <list>
++         <option value="HTML File" />
++-        <option value="CSS File" />
++       </list>
++     </option>
++   </component>
++@@ -27,16 +24,16 @@
++     <option name="PUSH_AUTO_UPDATE" value="true" />
++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++   </component>
++-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++-  "lastFilter": {
++-    "state": "OPEN"
+++  <component name="GitHubPullRequestSearchHistory">{
+++  &quot;lastFilter&quot;: {
+++    &quot;state&quot;: &quot;OPEN&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="GithubPullRequestsUISettings">
++     <option name="selectedUrlAndAccountId">
++       <UrlAndAccount>
++         <option name="accountId" value="bbfcc6fc-381d-48b9-81ee-63c5c23be7c4" />
++-        <option name="url" value="https://github.com/Krat97/Lessen_1_HTML.git" />
+++        <option name="url" value="https://github.com/Krat97/Lessen_1.git" />
++       </UrlAndAccount>
++     </option>
++   </component>
++@@ -54,20 +51,19 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "DefaultHtmlFileTemplate": "HTML File",
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true",
++-    "WebServerToolWindowFactoryState": "false",
++-    "list.type.of.created.stylesheet": "CSS",
++-    "node.js.detected.package.eslint": "true",
++-    "node.js.detected.package.tslint": "true",
++-    "node.js.selected.package.eslint": "(autodetect)",
++-    "node.js.selected.package.tslint": "(autodetect)",
++-    "vue.rearranger.settings.migration": "true"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
++@@ -76,7 +72,7 @@
++       <option name="number" value="Default" />
++       <option name="presentableId" value="Default" />
++       <updated>1674242753783</updated>
++-      <workItem from="1674242755284" duration="9803000" />
+++      <workItem from="1674242755284" duration="6813000" />
++     </task>
++     <task id="LOCAL-00001" summary="Initial commit">
++       <created>1674250421471</created>
++@@ -92,21 +88,7 @@
++       <option name="project" value="LOCAL" />
++       <updated>1674250731212</updated>
++     </task>
++-    <task id="LOCAL-00003" summary="Initial commit">
++-      <created>1674252744479</created>
++-      <option name="number" value="00003" />
++-      <option name="presentableId" value="LOCAL-00003" />
++-      <option name="project" value="LOCAL" />
++-      <updated>1674252744479</updated>
++-    </task>
++-    <task id="LOCAL-00004" summary="Initial commit">
++-      <created>1674253244224</created>
++-      <option name="number" value="00004" />
++-      <option name="presentableId" value="LOCAL-00004" />
++-      <option name="project" value="LOCAL" />
++-      <updated>1674253244224</updated>
++-    </task>
++-    <option name="localTasksCounter" value="5" />
+++    <option name="localTasksCounter" value="3" />
++     <servers />
++   </component>
++   <component name="TypeScriptGeneratedFilesManager">
++@@ -114,6 +96,7 @@
++   </component>
++   <component name="VcsManagerConfiguration">
++     <MESSAGE value="Initial commit" />
++-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+++    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;HTML/CSS/Style.css&#10;#&#9;HTML/CSS/st.CSS&#10;#&#9;HTML/CSS/stail.CSS&#10;#&#9;HTML/index.html" />
+++    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;HTML/CSS/Style.css&#10;#&#9;HTML/CSS/st.CSS&#10;#&#9;HTML/CSS/stail.CSS&#10;#&#9;HTML/index.html" />
++   </component>
++ </project>
++\ No newline at end of file
++Index: HTML/index.html
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><!doctype html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\"\r\n          content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\r\n    <title>simson</title>\r\n\r\n\r\n    <link rel=\"stylesheet\" href=\"CSS/Style.css\">\r\n</head>\r\n<body>\r\n<h1>SIMPSON</h1>\r\n<img src=\"https://upload.wikimedia.org/wikipedia/ru/thumb/1/1b/Simpsons.png/274px-Simpsons.png\" alt=\"Simpsin\">\r\n<p> The Simpsons are the main protagonists of the TV show The Simpsons. The family first appeared on The Tracey Ullman Show, in the comedy short Good Night. The family has hundreds of relatives, including Mr. Burns and Patty and Selma.</p>\r\n<h2><a href=\"https://simpsons.fandom.com/wiki/Homer_Simpson\">Gomer</a></h2>\r\n<img src=\"Gomer.png\" height=\"400\" width=\"200\"/>\r\n<p>\r\n    Homer Jay Simpson (born May 12, 1956) is a man from Springfield. He is the spouse of Marge Simpson and father of Bart, Lisa and Maggie Simpson. Homer is overweight (said to be 239 pounds)[41], lazy, and often ignorant to the world around him. Although he has many flaws, he has shown to have great caring, love, and even bravery to those he cares about and, sometimes, even others he doesn't.\r\n    His favorite color is blue, and he enjoys dancing, eating donuts, drinking, hugging, driving a sit-down arcade racer, playing the piano and horse riding. His favorite kiddie rides are \"Stuart Little\", \"Barney Train\" and \"Ride the Champion Mechanical Horse\".\r\n</p>\r\n<ul>\r\n   <li>D'oh!</li>\r\n    <li>Why you little...!</li>\r\n    <li>Woo-hoo!</li>\r\n</ul>\r\n\r\n<h2><a href=\"https://simpsons.fandom.com/wiki/Bart_Simpson\">Bart</a></h2>\r\n<img src=\"Bart.png\" height=\"400\" width=\"200\"/>\r\n<p>Bartholomew JoJo \"Bart\" Simpson (born Feburary 23 or April 1, 1980)[7]is the mischievous, rebellious, misunderstood, disruptive and \"potentially dangerous\" oldest child of the Simpson family in The Simpsons. He is the only son of Homer and Marge Simpson, and the older brother of Lisa and Maggie. He also has been nicknamed \"Cosmo\", after discovering a comet in \"Bart's Comet\". Bart has also been on the cover on numerous comics, such as \"Critical Hit\", \"Simpsons Treasure Trove #11\", and \"Winter Wingding\". Bart also has a 100-issue comic series entitled the Simpson Comics Presents Bart Simpson. Bart is loosely based on Matt Groening and his older brother, Mark Groening. </p>\r\n<ul>\r\n    <li>Ay Caramba!</li>\r\n    <li>Eat my shorts!</li>\r\n    <li>I didn't do it!</li>\r\n</ul>\r\n\r\n<h2><a href=\"https://simpsons.fandom.com/wiki/Lisa_Simpson\">Lisa</a></h2>\r\n<img src=\"Lisa.png\" height=\"400\" width=\"200\"/>\r\n<p>Lisa Marie Simpson (born May 9, 1983)[9] is the elder daughter and middle child of the Simpson family and one of the two tritagonists (along with Marge,) of The Simpsons series.\r\n    In \"Homer and Lisa Exchange Cross Words\" she is also known as Lisa Bouvier. She was named after a train called Lil' Lisa on her parents' 1st anniversary. She is a charismatic 8-year-old girl, who exceeds the standard achievement of the intelligence level of children her age. Not to everyone's surprise, she is also the moral center of her family. In her upbringing, Lisa lacks parental involvement of Homer and Marge, which leads to hobbies such as playing saxophone and guitar, riding and caring for horses, and interest in advanced studies. In school, Lisa's popularity is affected by those who view her as a geeky overachiever, which leaves her with only a few friends. She focuses on her goals and strives to reach her potential, and at the age of eight, she is already a member of Mensa with an IQ of 159. Her lack of parental involvement also leads to her lashing out at those who she deems lower than her or even above her. She has extreme jealousy from time to time and will do whatever it takes to reclaim her title as the smartest; but only if she deems it necessary. Otherwise, she's the intelligent one who usually thinks things through.\r\n</p>\r\n\r\n<ul>\r\n    <li>Bart!</li>\r\n    <li>Quit it, Bart!</li>\r\n    <li>BAAAAART!!</li>\r\n</ul>\r\n\r\n</body>\r\n</html>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/HTML/index.html b/HTML/index.html
++--- a/HTML/index.html	(revision 71d6b128774e5b893d924eedfd8f4b5ea7661b23)
+++++ b/HTML/index.html	(date 1674257606090)
++@@ -6,9 +6,8 @@
++           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
++     <meta http-equiv="X-UA-Compatible" content="ie=edge">
++     <title>simson</title>
++-
++-
++     <link rel="stylesheet" href="CSS/Style.css">
+++
++ </head>
++ <body>
++ <h1>SIMPSON</h1>
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1674258478438)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46__Changes_.xml	(date 1674258478438)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Update_at_21_01_2023_1_46_[Changes]" date="1674258361424" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_46_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Update at 21.01.2023 1:46 [Changes]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1674258668910)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51_[Changes]/shelved.patch	(date 1674258668910)
+@@ -0,0 +1,92 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"122d54d5-74cf-4a98-b210-8220d5093941\" name=\"Changes\" comment=\"Initial commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/HTML/CSS/Style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/HTML/CSS/st.CSS\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/HTML/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/HTML/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"bbfcc6fc-381d-48b9-81ee-63c5c23be7c4\" />\r\n        <option name=\"url\" value=\"https://github.com/Krat97/Lessen_1_HTML.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KbUOcd07tN0HIDzbl2XgK19MkE\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"122d54d5-74cf-4a98-b210-8220d5093941\" name=\"Changes\" comment=\"\" />\r\n      <created>1674242753783</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674242753783</updated>\r\n      <workItem from=\"1674242755284\" duration=\"9803000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\r\n      <created>1674250421471</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674250421471</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Initial commit\">\r\n      <created>1674250731212</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674250731212</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Initial commit\">\r\n      <created>1674252744479</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674252744479</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Initial commit\">\r\n      <created>1674253244224</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674253244224</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initial commit\" />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 71d6b128774e5b893d924eedfd8f4b5ea7661b23)
+++++ b/.idea/workspace.xml	(date 1674258658248)
++@@ -4,12 +4,7 @@
++     <option name="autoReloadType" value="SELECTIVE" />
++   </component>
++   <component name="ChangeListManager">
++-    <list default="true" id="122d54d5-74cf-4a98-b210-8220d5093941" name="Changes" comment="Initial commit">
++-      <change afterPath="$PROJECT_DIR$/HTML/CSS/Style.css" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/HTML/CSS/st.CSS" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
++-    </list>
+++    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Initial commit" />
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++@@ -27,11 +22,11 @@
++     <option name="PUSH_AUTO_UPDATE" value="true" />
++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++   </component>
++-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++-  "lastFilter": {
++-    "state": "OPEN"
+++  <component name="GitHubPullRequestSearchHistory">{
+++  &quot;lastFilter&quot;: {
+++    &quot;state&quot;: &quot;OPEN&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="GithubPullRequestsUISettings">
++     <option name="selectedUrlAndAccountId">
++       <UrlAndAccount>
++@@ -54,20 +49,20 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "DefaultHtmlFileTemplate": "HTML File",
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true",
++-    "WebServerToolWindowFactoryState": "false",
++-    "list.type.of.created.stylesheet": "CSS",
++-    "node.js.detected.package.eslint": "true",
++-    "node.js.detected.package.tslint": "true",
++-    "node.js.selected.package.eslint": "(autodetect)",
++-    "node.js.selected.package.tslint": "(autodetect)",
++-    "vue.rearranger.settings.migration": "true"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+++    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
++@@ -111,6 +106,17 @@
++   </component>
++   <component name="TypeScriptGeneratedFilesManager">
++     <option name="version" value="3" />
+++  </component>
+++  <component name="Vcs.Log.History.Properties">
+++    <option name="COLUMN_ID_ORDER">
+++      <list>
+++        <option value="Default.Root" />
+++        <option value="Default.Author" />
+++        <option value="Default.Date" />
+++        <option value="Default.Subject" />
+++        <option value="Space.CommitStatus" />
+++      </list>
+++    </option>
++   </component>
++   <component name="VcsManagerConfiguration">
++     <MESSAGE value="Initial commit" />
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"122d54d5-74cf-4a98-b210-8220d5093941\" name=\"Changes\" comment=\"Initial commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/HTML/CSS/Style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/HTML/CSS/st.CSS\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/HTML/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/HTML/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"bbfcc6fc-381d-48b9-81ee-63c5c23be7c4\" />\r\n        <option name=\"url\" value=\"https://github.com/Krat97/Lessen_1_HTML.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KbUOcd07tN0HIDzbl2XgK19MkE\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"122d54d5-74cf-4a98-b210-8220d5093941\" name=\"Changes\" comment=\"\" />\r\n      <created>1674242753783</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674242753783</updated>\r\n      <workItem from=\"1674242755284\" duration=\"9803000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\r\n      <created>1674250421471</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674250421471</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Initial commit\">\r\n      <created>1674250731212</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674250731212</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Initial commit\">\r\n      <created>1674252744479</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674252744479</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Initial commit\">\r\n      <created>1674253244224</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674253244224</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initial commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 71d6b128774e5b893d924eedfd8f4b5ea7661b23)
++++ b/.idea/workspace.xml	(date 1674307830965)
+@@ -4,12 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="122d54d5-74cf-4a98-b210-8220d5093941" name="Changes" comment="Initial commit">
+-      <change afterPath="$PROJECT_DIR$/HTML/CSS/Style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/HTML/CSS/st.CSS" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
+-    </list>
++    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Initial commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -27,11 +22,11 @@
+     <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -54,20 +49,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "list.type.of.created.stylesheet": "CSS",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1674307830911)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51__Changes_.xml	(date 1674307830911)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Update_at_21_01_2023_1_51_[Changes]" date="1674258668911" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_2023_1_51_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Update at 21.01.2023 1:51 [Changes]" />
++</changelist>
+\ No newline at end of file
