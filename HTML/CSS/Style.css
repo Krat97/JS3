@@ -1,22 +1,25 @@
 h1{
-    background: aqua;
     color: dodgerblue;
+    width: 300px;
 }
 h2 {
-    background: chocolate ;
     color: dodgerblue;
+    width: 300px;
 }
 li {
     background: #96d790;
     color: #0b0e11;
+    width: 200px;
 }
 p {
     background: #31d3cf;
     color: #000000;
+    width: 300px;
 }
 img {
     width: 200px
 }
 a{
     text-decoration: none;
+
 }
