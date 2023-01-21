@@ -7,10 +7,16 @@ h2 {
     color: dodgerblue;
 }
 li {
-    background: #30d21e;
-    color: dodgerblue;
+    background: #96d790;
+    color: #0b0e11;
 }
 p {
     background: #31d3cf;
     color: #000000;
+}
+img {
+    width: 200px
+}
+a{
+    text-decoration: none;
 }
