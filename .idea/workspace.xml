@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/HTML/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CSS/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 2/Блоки.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 2/Блоки.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Progekt/Lessen 1/HTML/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Progekt/Lessen 1/HTML/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Progekt/Lessen 1/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Progekt/Lessen 1/HTML/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="bbfcc6fc-381d-48b9-81ee-63c5c23be7c4" />
-        <option name="url" value="https://github.com/Krat97/Lessen_1_HTML.git" />
+        <option name="url" value="https://github.com/Krat97/Lessen_1.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -65,6 +69,28 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Lessen 1\Lessen 1\Progert" />
+      <recent name="C:\Users\User\Lessen 1" />
+      <recent name="C:\Users\User\Lessen 1\Lessen 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Pogekt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Pogekt" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1674242753783</updated>
       <workItem from="1674242755284" duration="9803000" />
-      <workItem from="1674308041573" duration="1715000" />
+      <workItem from="1674308041573" duration="2889000" />
+      <workItem from="1674316998881" duration="209000" />
+      <workItem from="1674317237990" duration="8324000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -118,7 +146,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674314364809</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1674315162603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674315162603</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1674315174383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674315174383</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1674317161691</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674317161691</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1674317579631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674317579631</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

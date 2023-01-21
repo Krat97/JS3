@@ -1,0 +1,44 @@
+h1 {
+    background: #37942e;
+
+    height: 140px;
+}
+h2 {
+    background: #37942e;
+
+    height: 250px;
+}
+
+.bloc {
+
+    width: 400px;
+    height: 130px;
+    background: rgba(51, 47, 47, 0.66);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+
+}
+h3 {
+    background: #37942e;
+    height: 100%;
+    width: 125px;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.A {
+    height: 150px;
+    width: 400px;
+    background: rgba(155, 38, 38, 0.66);
+    box-sizing: border-box;
+    display: block;
+    margin: 0;
+
+}
+
+
+
+
+
