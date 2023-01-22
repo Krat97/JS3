@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Initial commit">
+    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'github/master'">
+      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 3/Stile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Progekt/Lessen 2/Блоки.css" beforeDir="false" afterPath="$PROJECT_DIR$/Progekt/Lessen 2/Блоки.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Progekt/Lessen 2/Блоки.html" beforeDir="false" afterPath="$PROJECT_DIR$/Progekt/Lessen 2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Lessen 1\Progekt" />
       <recent name="C:\Users\User\Lessen 1\Lessen 1\Progert" />
       <recent name="C:\Users\User\Lessen 1" />
       <recent name="C:\Users\User\Lessen 1\Lessen 1" />
@@ -99,7 +102,8 @@
       <workItem from="1674242755284" duration="9803000" />
       <workItem from="1674308041573" duration="2889000" />
       <workItem from="1674316998881" duration="209000" />
-      <workItem from="1674317237990" duration="11090000" />
+      <workItem from="1674317237990" duration="11464000" />
+      <workItem from="1674591627429" duration="3248000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -178,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674420374048</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'github/master'">
+      <created>1674423996443</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674423996443</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
   </component>
 </project>
