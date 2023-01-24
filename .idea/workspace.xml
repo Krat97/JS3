@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 3/Stile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 3/Stie2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Progekt/Lessen 3/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Progekt/Lessen 2/Блоки.html" beforeDir="false" afterPath="$PROJECT_DIR$/Progekt/Lessen 2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <workItem from="1674308041573" duration="2889000" />
       <workItem from="1674316998881" duration="209000" />
       <workItem from="1674317237990" duration="11464000" />
-      <workItem from="1674591627429" duration="3248000" />
+      <workItem from="1674591627429" duration="6330000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674423996443</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'github/master'">
+      <created>1674595220520</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674595220520</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
