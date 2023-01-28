@@ -1,0 +1,34 @@
+.box {
+    width: 100%;
+    height: 1800px;
+    background: chocolate;
+    display: flex;
+}
+.blocA {
+    width: 100%;
+    height: 100px;
+    background: dodgerblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.blocB {
+    width: 70%;
+    height: 700px;
+    background: #1eff43;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.blocC {
+    width: 30%;
+    height: 700px;
+    background: #31d3cf;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
