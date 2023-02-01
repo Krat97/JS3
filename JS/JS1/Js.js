@@ -29,7 +29,7 @@
 let firstName = 'Maksymiuk';
 let middleName = 'Oleh';
 let lastName = 'Ivanovich';
-let person = (firstName +middleName + lastName);
+let person = (firstName+' '+middleName+' '+ lastName);
 console.log(person)
 
 let a =100;
