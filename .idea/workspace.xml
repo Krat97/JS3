@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'github/master'" />
+    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/JS/JS3/JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS3/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="bbfcc6fc-381d-48b9-81ee-63c5c23be7c4" />
-        <option name="url" value="https://github.com/Krat97/Lessen_1.git" />
+        <option name="url" value="https://github.com/Krat97/JS3.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -107,7 +110,7 @@
       <workItem from="1675268886018" duration="2720000" />
       <workItem from="1675272392531" duration="100000" />
       <workItem from="1675704818269" duration="9152000" />
-      <workItem from="1675893901810" duration="535000" />
+      <workItem from="1675893901810" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -256,7 +259,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675894099664</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1675894446641</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675894446641</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1675894454913</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675894454913</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1675894471047</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675894471047</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +289,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
