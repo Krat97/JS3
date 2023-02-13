@@ -74,18 +74,23 @@ let users = [
 ];
 for (let user of users) {
 
-    // if(user.status===true)
-    // {
-    //     console.log(user);
-    // }
+    if(user.status===true)
+    {
+        console.log(user);
+    }}
+for (const user of users) {
+    if(user.status===false)
+    {
+        console.log(user);
+    }}
 
-    // if(user.status===false)
-    // {
-    //     console.log(user);
-    // }
+    for (const user of users) {
+
+
     if(user.age>30){
         console.log(user);
-    }
+    }}
+    
 
-}
+
 
