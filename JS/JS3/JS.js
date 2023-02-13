@@ -73,10 +73,19 @@ let users = [
     {name: 'max', age: 31, status: true}
 ];
 for (let user of users) {
-    // let user = user[i]
-    if(users[1].status===true)
-    {
+
+    // if(user.status===true)
+    // {
+    //     console.log(user);
+    // }
+
+    // if(user.status===false)
+    // {
+    //     console.log(user);
+    // }
+    if(user.age>30){
         console.log(user);
     }
+
 }
 
