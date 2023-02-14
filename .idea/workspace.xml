@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/JS/JS4/Js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS4/inex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/JS3/JS.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/JS3/JS.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +114,7 @@
       <workItem from="1675704818269" duration="9152000" />
       <workItem from="1675893901810" duration="2346000" />
       <workItem from="1675964719061" duration="6138000" />
-      <workItem from="1676137014076" duration="3063000" />
+      <workItem from="1676137014076" duration="12351000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -300,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676306999089</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1676307365632</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676307365632</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

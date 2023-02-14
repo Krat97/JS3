@@ -76,12 +76,12 @@ for (let user of users) {
 
     if(user.status===true)
     {
-        console.log(user);
+        console.log(user); document.write(`${user.name}__${user.age} ;---`)
     }}
 for (const user of users) {
     if(user.status===false)
     {
-        console.log(user);
+        console.log(user);document.write(`${user.name}__${user.age} ;---`)
     }}
 
     for (const user of users) {
