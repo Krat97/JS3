@@ -94,6 +94,35 @@
 // }
 // sss([1,5,6,`hhh`,true]);
 
+// // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ. Для кожного об'єкту окремий блок.
+// function sss(Objects){
+//     for (let item of Objects) {
+//
+//     document.write(`<div> ${item.id} ${item.name} ${item.age}</div>`)
+//     }
+// }
 
 
+// // - створити функцію яка повертає найменьше число з масиву
+// function minnum (numbers){
+//     let min = numbers[0];
+//     for (let number of numbers) {
+//         if (min>number){
+//             min=number
+//         }
+//     }
+//     return min;
+// }
+// console.log(minnum([11, 22, -13]));
 
+// створити функцію sum(arr)яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад sum([1,2,10]) //->13
+
+function summ (arr){
+    let min=0;
+    for (let item of arr) {
+        min+=item;
+        // або min=min+item;
+    }
+    return min
+}
+console.log(summ([11,12,3]));
