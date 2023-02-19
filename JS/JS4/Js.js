@@ -22,6 +22,9 @@
 // let Z = item (2,3);
 //     console.log(Z);
 
+// let S = (a,b) => a*b;
+// console.log(S(5, 2));
+
 
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
 // function S (r){
@@ -31,12 +34,19 @@
 // console.log(SS);
 
 
+// let S = (r)=> 3.14*(r*r);
+// console.log(S(10));
+
+
 // - створити функцію яка обчислює та повертає площу циліндру висотою h, та радіутом r
 // function S (h,r){
 //     return rezult = 2*3.14*r*(h+r);
 // }
 // let Z = S(5,8);
 // console.log(Z);
+
+// let S = (h,r)=>2*3.14*r*(h+r);
+// console.log(S(10, 3));
 
 
 // - створити функцію яка приймає масив та виводить кожен його елемент
@@ -56,11 +66,26 @@
 // mac(user);
 
 
+// let Ar = (arr)=> {
+//     for (const item of arr) {
+//         console.log(item);
+//     }
+// }
+// Ar([5,4,2])
+
+
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумент
 // function paragraf (text){
 //     document.write(`<p>${text}</p>`)
 // }
 // paragraf (`hello`);
+
+
+// let P = (text)=>{
+//     document.write(`<p>${text}</p>`)
+// }
+// P(`hhh`);
+
 
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
 // function spisok(text){
@@ -73,6 +98,15 @@
 // spisok(`asd`);
 
 
+// let spisok = (text)=>{
+//     document.write(`<ul>`)
+//     document.write(`<li>${text}</li>`)
+//     document.write(`<li>${text}</li>`)
+//     document.write(`<li>${text}</li>`)
+//     document.write(`</ul>`)
+// }
+// spisok(`axa`)
+
 // - створити функцію яка створює ul з елементами li. Текст li задати через аргумент всім однаковий. Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
 // function spisok (text,n){
 //     document.write(`<ul>`)
@@ -82,6 +116,18 @@
 // }
 //     document.write(`</ul>`)}
 // spisok(`asd`,6);
+
+// let spisok =(text,n)=>{
+//     document.write(`<ul>`)
+//     for (let i = 0; i < n; i++) {
+//         document.write(`<li>${text}</li>`)
+//         document.write(`<li>${text}</li>`)
+//         document.write(`<li>_______</li>`)
+// }
+//     document.write(`</ul>`)
+// }
+// spisok(`yyy`,5)
+
 
 
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
@@ -94,6 +140,16 @@
 // }
 // sss([1,5,6,`hhh`,true]);
 
+// let AR =(arr)=>{
+//     document.write(`<ul>`)
+//     for (const A of arr) {
+//         document.write(`<li>${A}</li>`)
+//     }
+//     document.write(`</ul>`)
+// }
+//     AR([5,8,6,`jkj`])
+
+
 // // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ. Для кожного об'єкту окремий блок.
 // function sss(Objects){
 //     for (let item of Objects) {
@@ -101,7 +157,15 @@
 //     document.write(`<div> ${item.id} ${item.name} ${item.age}</div>`)
 //     }
 // }
-
+// let AR = (arr)=>{
+//     for (let item of arr){
+//         document.write(`<hr/>`)
+//         document.write(`<div> ${item.id} ${item.name} ${item.age}</div>`)
+//     }
+// }
+// AR({id:5,
+//     name:`oleh`,
+//     age:25})
 
 // // - створити функцію яка повертає найменьше число з масиву
 // function minnum (numbers){
