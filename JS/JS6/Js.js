@@ -49,11 +49,24 @@
 // // console.log(arr);
 //
 
+// let str = 'Ревуть воли як ясла повні';
+// let stringToarray = (string) => string.split(' ');
+// let arr = stringToarray(str);
+// console.log(arr);
+// __________________________________________________
 
 // // - є масив чисел [10,8,-7,55,987,-1011,0,1050,0] . за допомоги map  перетворити всі об'єкти в масиві на стрінгові.
 // // const arr = [10, 8, -7, 55, 987, -1011, 0, 1050, 0];
 // // console.log(arr.map((num) => num.toString()));
+
+
 //
+// let arr = [10, 8, -7, 55, 987, -1011, 0, 1050, 0];
+// console.log(arr.map((num)=>num.toString()));
+//
+
+
+
 // // - створити функцію sortNums(direction), яка прймає масив чисел, та сортує його від більшого до меньшого, або навпаки в залежності від значення аргументу direction.
 // // let nums = [11, 21, 3];
 // // const sortNums = (arr, order) => {
@@ -67,6 +80,19 @@
 // // console.log(sortNums(nums, 'ascending')); // [3,11,21]
 // // console.log(sortNums(nums, 'descending')); // [21,11,3]
 //
+// let nums = [5,6,8,9,3,2,1];
+// let sortNums = (arr,order) => {
+//     switch (order){
+//         case '>':
+//             return arr.sort((a,b) => a-b);
+//         case  '<' :
+//             return arr.sort((a,b) => b-a);
+//         }
+//     }
+// console.log(sortNums(nums, '>'));
+// console.log(sortNums(nums, '<'));
+
+
 // // ==========================
 // // - є масив
 // let coursesAndDurationArray = [
@@ -79,19 +105,46 @@
 // ];
 // // -- відсортувати його за спаданням за monthDuration
 // // console.log(coursesAndDurationArray.sort((a, b) => b.monthDuration - a.monthDuration));
-// // -- відфільтрувати , залишивши тільки курси з тривалістю більше 5 місяців
-// // console.log(coursesAndDurationArray.filter((item) => item.monthDuration > 5));
-// // -- за допомоги map перетворити кожен елемент на наступний тип {id,title,monthDuration}
-// // console.log(coursesAndDurationArray.map((item, index) => {
-// //   return {
-// //     id:index + 1,
-// //     title: item.title,
-// //     monthDuration: item.monthDuration,
-// //   }
-// // }));
-// //
-// // console.log(coursesAndDurationArray)
+// let coursesAndDurationArray = [
+//     { title: 'JavaScript Complex', monthDuration: 5 },
+//     { title: 'Java Complex', monthDuration: 6 },
+//     { title: 'Python Complex', monthDuration: 6 },
+//     { title: 'QA Complex', monthDuration: 4, id: 44 },
+//     { title: 'FullStack', monthDuration: 7 },
+//     { title: 'Frontend', monthDuration: 4 }
+// ];
+// // console.log(coursesAndDurationArray.sort((a,b) => b.monthDuration-a.monthDuration));
 //
+// // // -- відфільтрувати , залишивши тільки курси з тривалістю більше 5 місяців
+// // // console.log(coursesAndDurationArray.filter((item) => item.monthDuration > 5));
+//
+// // console.log(coursesAndDurationArray.filter((item) => item.monthDuration > 4));
+// // // -- за допомоги map перетворити кожен елемент на наступний тип {id,title,monthDuration}
+// // // console.log(coursesAndDurationArray.map((item, index) => {
+// // //   return {
+// // //     id:index + 1,
+// // //     title: item.title,
+// // //     monthDuration: item.monthDuration,
+// // //   }
+// // // }));
+// // //
+// // // console.log(coursesAndDurationArray)
+// //
+//
+// console.log(coursesAndDurationArray.map((item,index) => {
+//     return{
+//         id:index+1,
+//         title: item.title,
+//         monthDuration: item.monthDuration
+//     }
+// }))
+// console.log(coursesAndDurationArray);
+
+
+
+
+
+
 // // =========================
 // //     описати колоду карт (від 6 до туза без джокерів)
 // let cards = [
