@@ -1,31 +1,115 @@
 // // - Знайти та вивести довижину настипних стрінгових значень
-// // 'hello world', 'lorem ipsum', 'javascript is cool'
-// ['hello world', 'lorem ipsum', 'javascript is cool'].forEach((item) => console.log(item.length));
-
-// ['hello world', 'lorem ipsum', 'javascript is cool'].forEach(
-//     (item)=> console.log(item.length));
-
-
-//
 // // - Перевести до великого регістру наступні стрінгові значення
-// // 'hello world', 'lorem ipsum', 'javascript is cool'
-// // console.log(['hello world', 'lorem ipsum', 'javascript is cool'].map((item) => item.toUpperCase()));
-// console.log( ['hello world', 'lorem ipsum', 'javascript is cool'].map(
-//     (el) => el.toUpperCase()));
-
-
-
-//
 // // - Перевести до нижнього регістру настипні стрінгові значення
-// // 'HELLO WORLD', 'LOREM IPSUM', 'JAVASCRIPT IS COOL'
-// // console.log(['HELLO WORLD', 'LOREM IPSUM', 'JAVASCRIPT IS COOL'].map((item) => item.toLowerCase())
+// // 'hello world', 'lorem ipsum', 'javascript is cool'
+// ['hello world', 'lorem ipsum', 'javascript is cool'].forEach((item) => console.log(item.length))
+let str = 'hello world, lorem ipsum, javascript is cool';        //  Результат:
+console.log(str.toUpperCase());                                  // HELLO WORLD, LOREM IPSUM, JAVASCRIPT IS COOL
+console.log(str.toLowerCase());                                  // 0 hello world, lorem ipsum, javascript is cool
+console.log(str.startsWith(`he`));                               // 1 true
+console.log(str.endsWith(`is`));                                 // 2 false
+console.log(str.substring(4, 10));                               // 3 o worl
+console.log(str.indexOf(`w`));                                   // 4 6
+console.log(str.indexOf(`l`, 4));                                // 5 9
+console.log(str.charAt(8));                                      // 6 r
+console.log(str.replace(`l`, `L`));                              // 7 heLlo world, lorem ipsum, javascript is cool
+console.log(str.replaceAll('el', 'A'));                          // 8 hAlo world, lorem ipsum, javascript is cool
+console.log(str.split(','&&' '));                                // 9 (7) ['hello', 'world,', 'lorem', 'ipsum,', 'javascript', 'is', 'cool']
 
-// console.log(['HELLO WORLD', 'LOREM IPSUM', 'JAVASCRIPT IS COOL'].map(
-//     (el)=>el.toLowerCase()));
+let arr = str.split(',')
+console.log(arr);
+
+arr.push('kava');
+console.log(arr);
+
+arr.pop();
+console.log(arr);
+
+arr.unshift('Nastia')
+console.log(arr);
+
+arr.shift()
+console.log(arr);
+
+let st = '';
+for (const Element of arr) {
+    st+=Element +'; '
+}
+console.log(st);
+
+console.log(arr.join(';;;'));
+
+let a = ['Nactia','Oleh']
+let CONCAT = arr.concat(a)
+console.log(CONCAT);
 
 
+console.log(CONCAT.slice(2,5));
 
-//
+let B = CONCAT.splice(3,2,'We')
+console.log(B);
+console.log(CONCAT);
+
+console.log(CONCAT.includes('he'));
+
+let Arr1 =  [
+    { title: 'JavaScript Complex', monthDuration: 5 },
+    { title: 'Java Complex', monthDuration: 6 },
+    { title: 'Python Complex', monthDuration: 6 },
+    { title: 'QA Complex', monthDuration: 4, id: 44 },
+    { title: 'FullStack', monthDuration: 7 },
+    { title: 'Frontend', monthDuration: 4 }
+];
+Arr1.forEach(value => console.log(value))
+
+let users = [
+    {name: 'vasya', age: 31, status: false},
+    {name: 'petya', age: 30, status: true},
+    {name: 'kolya', age: 29, status: true},
+    {name: 'olya', age: 28, status: false},
+    {name: 'max', age: 30, status: true},
+    {name: 'anya', age: 31, status: false},
+    {name: 'oleg', age: 28, status: false},
+    {name: 'andrey', age: 29, status: true},
+    {name: 'masha', age: 30, status: true},
+    {name: 'olya', age: 31, status: false},
+    {name: 'max', age: 31, status: true}
+    ];
+console.log(users.filter(value => value.age > 30 || value.status===false));
+
+let UM = users.map(function (value,index) {
+    return{...value, ageP: (60 - value.age)}
+})
+console.log(UM);
+
+let aaa =users.sort((z,x) =>{
+    return z.age-x.age
+})
+console.log(aaa);
+
+let bbb = users.sort((z,x)=>{
+    if (z.name>x.name){
+        return 1
+    }
+    if (z.name<x.name){
+        return -1
+    }
+    if (z.name===x.name){
+        return 0
+    }
+})
+console.log(bbb);
+
+
+console.log(users.reduce((acb, user) => {
+    if (user.status === true) {
+        acb.statusT.push (user);
+    } else {
+        acb.statusF.push (user);
+    }
+    return acb;
+}, {statusT: [], statusF: []}));
+
 // // - Є "брудна" стрінга let str = ' dirty string   ' . Почистити її від зайвих пробілів.
 // // let str = ' dirty       string   ';
 // // console.log(str.trim());
@@ -190,7 +274,8 @@
 //     { cardSuit: 'clubs', value: 'ace', color: 'black' },
 // ]
 // // - знайти піковий туз
-// // console.log(cards.find((card) => card.cardSuit === 'spade' && card.value === 'ace'));
+
+
 // // - всі шістки
 // // console.log(cards.filter((card) => card.value === '6'));
 // // - всі червоні карти
