@@ -110,6 +110,74 @@ console.log(users.reduce((acb, user) => {
     return acb;
 }, {statusT: [], statusF: []}));
 
+
+// Рекурсія!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+let ar = [22,11,[45,35]];
+let P =[];
+function recyrs (arr) {
+    for (const arrElement of arr) {
+        if (Array.isArray(arrElement)) {
+            recyrs(arrElement)
+        } else {
+            P.push(arrElement)
+        }
+    }
+}
+recyrs(ar);
+console.log(P);
+
+//Конструктор --- Шаблон
+function User (name,age, wifename,wifeage){
+    this.neme = name;
+    this.age = age;
+    this.wife = {name:wifename, age:wifeage}
+}
+let N1 = new User(`Oleh`,25,`Anastasia`,23);
+console.log(N1);
+
+
+// Насліування Функції
+function Userr(namm,age){
+    this.namm = namm;
+    this.age = age;
+}
+function  sonUserr (namm,age,pas){
+    Userr.apply(this,arguments);
+    this.pas=pas;
+}
+
+let T = new sonUserr(`Oleh`,24,2222);
+console.log(T);
+
+
+// Конструктор клас
+class constructor  {
+    constructor(name,age) {
+        this.name=name;
+        this.age=age;
+    }
+greeting(){
+return `hi, I am ${this.name}`
+}
+}
+let Q = new constructor('Oleh', 25)
+console.log(Q);
+
+
+
+
+// Розширення конструктора
+class RRR extends constructor {
+// pas
+    constructor(name, age, pas) {
+        super(name, age);
+        this.pas = pas;
+    }
+}
+let  E = new RRR ('Anastasia',23,'LOVE')
+console.log(E);
+
 // // - Є "брудна" стрінга let str = ' dirty string   ' . Почистити її від зайвих пробілів.
 // // let str = ' dirty       string   ';
 // // console.log(str.trim());

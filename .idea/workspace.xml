@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7888e35b-76ce-42cc-9385-3a982494d503" name="Changes" comment="Функції з масивами">
-      <change afterPath="$PROJECT_DIR$/JS/JS7/INDEX.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/JS7/JS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/JS6/Js.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/JS6/Js.js" afterDir="false" />
     </list>
@@ -119,7 +117,7 @@
       <workItem from="1676928878707" duration="2130000" />
       <workItem from="1677519693411" duration="8000" />
       <workItem from="1677521161292" duration="5649000" />
-      <workItem from="1678561558620" duration="12251000" />
+      <workItem from="1678561558620" duration="20531000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674250421471</created>
@@ -359,11 +357,29 @@
       <option name="project" value="LOCAL" />
       <updated>1677532685305</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Функції з масивами">
+      <created>1678646598954</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678646598954</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
